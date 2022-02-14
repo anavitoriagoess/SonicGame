@@ -1,0 +1,34 @@
+body {
+    background-image: url(images/c.png);
+    background-size: cover;
+}
+.tamanho-sonic {
+    width: 160px;
+    height: 160px;
+}
+.sonic-deno {
+    width: 90px;
+    height: 90px;
+    background-image: url(images/ezgif.com-gif-maker.gif);
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 60px;
+    margin-left: 30px;
+}
+
+.rings {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-image: url(images/ezgif.com-gif-maker.png);
+    bottom: 0;
+    margin-bottom: 65px;
+}
+.game-over {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 72px;
+    color: whitesmoke;
+    text-shadow: 4px 4px cornflowerblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana;
+}
